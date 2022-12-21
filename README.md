@@ -1,5 +1,4 @@
-# Elinson_JAVA
-# Test Task AQA Trainee
+# Elinson_JAVA Test Task AQA Trainee
 ## Задания 1-3 в коде
 ## Задание 4 (текстовое):
 [((())()(())]] - данную скобочную последовательность нельзя считать правильной
